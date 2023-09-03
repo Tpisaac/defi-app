@@ -30,7 +30,11 @@ const Feature = () => {
         <div className="left">
           <h2>Explore top Crypto's Like Bitcoin, Ethereum, and Dogecoin</h2>
           <p>See all available assets: Cryto's & NFT's</p>
-          <button className="btn">See More Coins</button>
+          <button className="btn">
+            <a href="https://www.dextools.io/app/en/pairs" target="_blank">
+              See More Coins
+            </a>
+          </button>
         </div>
 
         <div className="right">

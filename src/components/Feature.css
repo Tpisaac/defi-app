@@ -39,6 +39,10 @@
     justify-content: space-evenly;
 }
 
+.btn a {
+    color: white;
+}
+
 .feature .right .card {
     display: flex;
     flex-direction: column;
